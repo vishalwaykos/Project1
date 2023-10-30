@@ -19,6 +19,12 @@ public class Main {
 
             System.out.println("Something i was doing");
             System.out.println("sout+123");
+
+            System.out.println("local changes");
+
+            DemoSecond dm = new DemoSecond();
+            dm.setNo(12);
+            System.out.println("Demo No :"+dm.getNo());
         }
     }
 }
