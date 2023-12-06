@@ -5,6 +5,8 @@ public class DemoSecond {
         String name;
         private String address;
 
+        private int vari;
+
     public int getNo() {
         return no;
     }
