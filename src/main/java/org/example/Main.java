@@ -25,6 +25,9 @@ public class Main {
             DemoSecond dm = new DemoSecond();
             dm.setNo(12);
             System.out.println("Demo No :"+dm.getNo());
+
+
+
         }
     }
 }
